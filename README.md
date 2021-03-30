@@ -3,6 +3,7 @@ Meme Generator Capstone Project in React for Scrimba course
 
 ## What?
 For the Scrimba Learn React capstone project, we created a meme generator using class-based components. I want to re-create the same generator but using **functional components** instead to continue furthering my understanding of useState and useEffect.
+Course: https://scrimba.com/learn/learnreact
 
 ## What I did & learned
 - I converted the components from class-based to functional
