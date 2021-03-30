@@ -1,7 +1,7 @@
 # meme-generator-react
 Meme Generator Capstone Project in React for Scrimba course
 
-![](./public/MemeGenerator.gif)
+![](MemeGenerator.gif)
 
 ## What?
 For the Scrimba Learn React capstone project, we created a meme generator using class-based components. I want to re-create the same generator but using **functional components** instead to continue furthering my understanding of useState and useEffect.
