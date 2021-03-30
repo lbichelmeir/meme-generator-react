@@ -7,5 +7,8 @@ For the Scrimba Learn React capstone project, we created a meme generator using 
 ## What I did & learned
 - I converted the components from class-based to functional
     - I furthered my understanding of useState() and useEffect()
-- used useEffect() to fetch data from an API (the meme images)
-- used this as an opportunity to improve my CSS skills because all the CSS styling was provided during the course. 
+- I used useEffect() to fetch data from an API (the meme images)
+- I used this as an opportunity to improve my **CSS skills** because the CSS styling was provided during the course. 
+    - I practiced making the website responsive by using font-size *vw*. 
+    - I practiced my CSS *positioning* by placiong the 'meme' text on the top and bottom of the image
+    - I practiced using *child selectors* (>) to avoid having to define a lot of classes and ids
