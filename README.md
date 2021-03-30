@@ -8,9 +8,10 @@ Course: https://scrimba.com/learn/learnreact
 
 ## What I did & learned
 - I converted the components from class-based to functional
+    - I developed a better understanding of the syntax of class and functional components
     - I furthered my understanding of useState() and useEffect()
-- I used useEffect() to fetch data from an API (the meme images)
+- I used useEffect() to **fetch data from an API** (the meme images)
 - I used this as an opportunity to improve my **CSS skills** because the CSS styling was provided during the course. 
-    - I practiced making the website responsive by using font-size *vw*. 
-    - I practiced my CSS *positioning* by placiong the 'meme' text on the top and bottom of the image
-    - I practiced using *child selectors* (>) to avoid having to define a lot of classes and ids
+    - I practiced making the website responsive by using *vw* sizes
+    - I practiced my CSS *positioning* by placing the 'meme' text on the top and bottom of the image
+    - I practiced using *child selectors* (>) to simplify the CSS
